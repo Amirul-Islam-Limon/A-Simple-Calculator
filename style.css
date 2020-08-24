@@ -1,0 +1,20 @@
+#calculator{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    margin:0 auto;
+    margin-top: 100px;
+    padding:5px 10px;
+}
+.button-area{
+    margin-top: 25px;
+}
+.btn{
+    width: 65px;
+}
+.line{
+    margin-bottom: 20px;
+}
+.last-line input{
+    width: 48%;
+}

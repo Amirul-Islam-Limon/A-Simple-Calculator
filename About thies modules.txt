@@ -1,0 +1,15 @@
+/// === 26 MODERN WEB DEVELOPER WORKFLOW, COMMAND LINE TOOLS and 27 INTEGRATE JAVASCRIPT BONUS CONTENT === ///
+
+* commend line tools(how can you use multiple command line);
+
+* local variable and global variable(IIFE-imediatly invoked function expresion, function declaration and expretion)
+
+* when you use a function(you can use function in four casese, 1. uniqe, 2.decrease repetation, 3.for a small work, 4.for making easy the code);
+
+* arguments(how we can get all argument that provided by a user);
+
+* Event delegation or Event buble ;
+
+*********************************** Simple Calculator Made By Me- Practise Problem *********************************
+
+// The end //
